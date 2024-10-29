@@ -8,7 +8,6 @@ header:
 
 <img src="https://github.com/KiseanRichards/KiseanRichatrdsProfile/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
 My name is Kiseean Richards, and I am a Junior at Northern Illinois Univerity.
 
