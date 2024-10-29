@@ -1,6 +1,6 @@
 ---
 title: "Kisean Richards Profile "
-header: Kisean Richards
+header: KiseanRichards
   image: /assets/images/niubanner.png
 ---
 
